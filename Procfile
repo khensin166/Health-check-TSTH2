@@ -1,1 +1,1 @@
-web: gunicorn health_check.wsgi
+web: gunicorn cattle_health.wsgi
